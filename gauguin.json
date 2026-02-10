@@ -1,13 +1,18 @@
 {
-    "response": [
-        {
-            "datetime": 1770029339,
-            "filename": "axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
-            "id": "3c23820327e35d62602aff646013598f",
-            "romtype": "UNOFFICIAL",
-            "size": 2276907612,
-            "url": "https://gitea.com/samsuddin/Ota_files/raw/branch/main/axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Shailesh",
+      "oem": "Xiaomi",
+      "device": "gauguin",
+      "filename": "Lunaris-AOSP-gauguin-Community-3.7-BETA-GMS-2026021014.zip",
+      "download": "",
+      "timestamp": 1770731998,
+      "md5": "c8867246048a8b9292cc73e34a28904f",
+      "sha256": "1068cc475a13f1d30530aa2afb9cecd72cc381a1d5c9ef7c4583cd0f86281c27",
+      "size": 2917764269,
+      "version": "3.7",
+      "buildtype": "Community",
+      "gapps": "Included"
+    }
+  ]
 }
