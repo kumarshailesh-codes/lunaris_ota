@@ -1,4 +1,13 @@
-#
-a
-#
-size"9"
+{
+    "response": [
+        {
+            "datetime": 1770029339,
+            "filename": "axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
+            "id": "3c23820327e35d62602aff646013598f",
+            "romtype": "UNOFFICIAL",
+            "size": 2276907612,
+            "url": "https://gitea.com/samsuddin/Ota_files/raw/branch/main/axion-2.4-SOLACE-20260202-UNOFFICIAL-GMS-gauguin.zip",
+            "version": "2.4"
+        }
+    ]
+}
